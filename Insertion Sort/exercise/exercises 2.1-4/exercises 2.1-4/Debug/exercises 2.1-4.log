@@ -1,0 +1,10 @@
+﻿  源.cpp
+f:\github的仓库\算法导论学习\exercises 2.1-4\exercises 2.1-4\源.cpp(6): warning C4101: “j”: 未引用的局部变量
+f:\github的仓库\算法导论学习\exercises 2.1-4\exercises 2.1-4\源.cpp(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\github的仓库\算法导论学习\exercises 2.1-4\exercises 2.1-4\源.cpp(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\github的仓库\算法导论学习\exercises 2.1-4\exercises 2.1-4\源.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  exercises 2.1-4.vcxproj -> F:\GITHUB的仓库\算法导论学习\exercises 2.1-4\Debug\exercises 2.1-4.exe
+  exercises 2.1-4.vcxproj -> F:\GITHUB的仓库\算法导论学习\exercises 2.1-4\Debug\exercises 2.1-4.pdb (Full PDB)
